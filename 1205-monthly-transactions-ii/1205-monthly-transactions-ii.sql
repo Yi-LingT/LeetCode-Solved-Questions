@@ -1,5 +1,3 @@
-# Write your MySQL query statement below
-
 with cte as
 (select C.trans_id as id, T.country,"Chargeback" state,T.amount,C.trans_date
 from Transactions  T
