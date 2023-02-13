@@ -1,21 +1,13 @@
-#S1-
-# with cte as
-# (select P1.id P1, P2.id P2,
-# (abs(P1.x_value-P2.x_value)*abs(P1.y_value-P2.y_value)) area
-# from Points P1
-# cross join Points P2
-# )
-# select *
-# from cte
-# where area<>0
-# and p1<p2
-# order by area desc,p1,p2
 
-#S2-
-SELECT  pt1.id as P1, pt2.id as P2,
-		ABS(pt2.x_value - pt1.x_value)*ABS(pt2.y_value-pt1.y_value) as AREA
-FROM Points pt1 JOIN Points pt2 
-ON pt1.id<pt2.id
-AND pt1.x_value!=pt2.x_value 
-AND pt2.y_value!=pt1.y_value
-ORDER BY AREA DESC, p1 ASC, p2 ASC;
+/**
+Why  p1.id < p2.id ??
+e.g. (2,3) and (3,2) are the same pair, and we only want one of them. Since these two combinations have the same area, we are asked to order them by p1.id ascending -> p1.id should be smaller than p2.id when there is a tie in area.
+*/
+
+select P1.id P1,P2.id P2,abs(P1.x_value-P2.x_value) *abs(P1.y_value-P2.y_value) as area
+from Points P1
+join Points P2
+on P1.id<P2.id
+and P1.x_value <>P2.x_value 
+and P1.y_value <>P2.y_value 
+order by area desc, p1,p2
