@@ -3,3 +3,4 @@ from
 (select *,count(*)over(partition by salary) as cnt
 from Employees ) C
 where cnt>=2
+order by team_id,employee_id 
