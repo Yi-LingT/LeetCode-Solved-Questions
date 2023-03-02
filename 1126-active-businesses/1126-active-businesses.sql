@@ -7,3 +7,5 @@ from cte1
 where occurences >avg_act
 group by business_id
 having count( event_type)>1
+
+#must use group by because having count is aggregation
