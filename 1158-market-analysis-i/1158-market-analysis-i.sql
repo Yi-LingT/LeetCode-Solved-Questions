@@ -3,6 +3,6 @@ from Users U
 left join Orders O
 on U.user_id =O.buyer_id 
 And YEAR(order_date) = '2019'
-group by user_id
+group by user_id,join_date
 
 
