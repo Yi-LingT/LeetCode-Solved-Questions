@@ -1,5 +1,5 @@
 with cte as (
-select *,count(email)>=2 as count1
+select *,count(email)>1 as count1
 from Person 
 group by email )
 
