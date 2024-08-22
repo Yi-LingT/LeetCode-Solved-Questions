@@ -21,11 +21,3 @@ Consistency is the foundation of progress. I believe in starting as early as pos
 
 ## Focus on Active Improvement
 The goal is to actively engage in the improvement process. If I find myself on auto-pilot or losing focus, it's perfectly acceptable to take a break and return later with renewed attention. Quality over quantity is the mantra here.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0175-combine-two-tables](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/0175-combine-two-tables) |
-<!---LeetCode Topics End-->
