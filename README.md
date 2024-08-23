@@ -27,5 +27,6 @@ The goal is to actively engage in the improvement process. If I find myself on a
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0627-swap-salary](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
