@@ -30,4 +30,5 @@ The goal is to actively engage in the improvement process. If I find myself on a
 | [0181-employees-earning-more-than-their-managers](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0627-swap-salary](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1153-product-sales-analysis-i](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
