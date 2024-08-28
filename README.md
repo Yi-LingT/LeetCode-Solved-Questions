@@ -33,4 +33,5 @@ The goal is to actively engage in the improvement process. If I find myself on a
 | [1153-product-sales-analysis-i](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/1174-sales-analysis-iii) |
+| [1179-game-play-analysis-i](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
