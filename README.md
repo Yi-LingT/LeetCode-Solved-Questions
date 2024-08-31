@@ -36,4 +36,5 @@ The goal is to actively engage in the improvement process. If I find myself on a
 | [1179-game-play-analysis-i](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/1179-game-play-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/1258-article-views-i) |
+| [1301-reformat-department-table](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/1301-reformat-department-table) |
 <!---LeetCode Topics End-->
