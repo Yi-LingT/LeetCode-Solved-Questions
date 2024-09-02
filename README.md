@@ -38,4 +38,5 @@ The goal is to actively engage in the improvement process. If I find myself on a
 | [1258-article-views-i](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/1301-reformat-department-table) |
 | [1338-queries-quality-and-percentage](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/1338-queries-quality-and-percentage) |
+| [1415-students-and-examinations](https://github.com/Yi-LingT/LeetCode-Solved-Questions/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
